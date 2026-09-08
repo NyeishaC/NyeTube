@@ -28,3 +28,6 @@ To view this project locally on your machine:
 
 1. Clone or download this repository.
 2. Open `index.html` directly in any modern web browser (like Google Chrome).
+
+<img width="957" height="430" alt="image" src="https://github.com/user-attachments/assets/293e6a98-c765-4086-97f8-27a6b9555752" />
+
